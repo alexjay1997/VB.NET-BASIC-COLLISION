@@ -1,0 +1,11 @@
+C:\Users\Fauni\source\repos\Vb_basic_collision\Vb_basic_collision\bin\Debug\Vb_basic_collision.exe.config
+C:\Users\Fauni\source\repos\Vb_basic_collision\Vb_basic_collision\bin\Debug\Vb_basic_collision.exe
+C:\Users\Fauni\source\repos\Vb_basic_collision\Vb_basic_collision\bin\Debug\Vb_basic_collision.pdb
+C:\Users\Fauni\source\repos\Vb_basic_collision\Vb_basic_collision\bin\Debug\Vb_basic_collision.xml
+C:\Users\Fauni\source\repos\Vb_basic_collision\Vb_basic_collision\obj\Debug\Vb_basic_collision.vbprojAssemblyReference.cache
+C:\Users\Fauni\source\repos\Vb_basic_collision\Vb_basic_collision\obj\Debug\Vb_basic_collision.Form1.resources
+C:\Users\Fauni\source\repos\Vb_basic_collision\Vb_basic_collision\obj\Debug\Vb_basic_collision.Resources.resources
+C:\Users\Fauni\source\repos\Vb_basic_collision\Vb_basic_collision\obj\Debug\Vb_basic_collision.vbproj.GenerateResource.cache
+C:\Users\Fauni\source\repos\Vb_basic_collision\Vb_basic_collision\obj\Debug\Vb_basic_collision.exe
+C:\Users\Fauni\source\repos\Vb_basic_collision\Vb_basic_collision\obj\Debug\Vb_basic_collision.xml
+C:\Users\Fauni\source\repos\Vb_basic_collision\Vb_basic_collision\obj\Debug\Vb_basic_collision.pdb
